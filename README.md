@@ -4,6 +4,7 @@ When you wear this wristband, it creates the sensation that the environment is c
 
 
 
+![WhatsApp Image 2025-04-13 at 17 47 46](https://github.com/user-attachments/assets/adbba245-7512-4a9f-b08e-1f12727fd686)
 
 
 <img src="https://github.com/user-attachments/assets/adbba245-7512-4a9f-b08e-1f12727fd686" width="750">
