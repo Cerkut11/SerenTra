@@ -36,3 +36,14 @@ When you wear this wristband, it creates the sensation that the environment is c
 
 ![image](https://github.com/user-attachments/assets/1fe4677b-edd2-4939-8cc3-29295d1322ef)
 
+
+## Thanks
+
+This project is being developed as part of the Senior Design Project at Karadeniz Technical University's Department of Electrical and Electronics Engineering.
+Currently, our project has entered the prototype phase, and testing on the prototype has begun. During this process, we aim to optimize our prototype as much as possible through testing.
+In the upcoming stages, we plan to design our own circuit board, aiming for lower energy loss and a smaller, more compact design.
+
+We would like to thank everyone who supported us throughout this journey.
+
+
+
